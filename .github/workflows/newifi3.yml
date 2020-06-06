@@ -16,6 +16,11 @@ on:
       - dev-19.07
     paths:
      - '.config'
+
+  push:
+    branches: 
+      - master
+    
  #schedule:
  #    - cron: 0 22 * * *
   watch:
