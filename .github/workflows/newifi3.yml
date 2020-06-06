@@ -12,12 +12,6 @@ on:
   release:
     types: [published]
   push:
-    branches:
-      - dev-19.07
-    paths:
-     - '.config'
-
-  push:
     branches: 
       - master
     
