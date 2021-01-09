@@ -8,6 +8,7 @@
 
 name: newifi3 OpenWrt
 
+
 on:
   release:
     types: [published]
